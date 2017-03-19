@@ -1,0 +1,44 @@
+﻿03/03/2016 17:21:43 - Checking file: 10861479_885379628151736_583781007_n.mp4
+03/03/2016 17:21:43 - Matched file (.mp4) :10861479_885379628151736_583781007_n.mp4
+03/03/2016 17:21:43 - Creating srt file for: C:\Users\Stuart\Videos\test_mp4\10861479_885379628151736_583781007_n.mp4
+03/03/2016 17:21:43 - Processed file: C:\Users\Stuart\Videos\test_mp4\10861479_885379628151736_583781007_n.mp4
+Created file: C:\Users\Stuart\Videos\test_mp4\10861479_885379628151736_583781007_n.srt (Duration: 119 seconds)
+Video Start Date/Time: 21/02/2016 14:35:10
+
+
+03/03/2016 17:21:43 - Checking file: 10861479_885379628151736_583781007_n - Copy.MP4
+03/03/2016 17:21:43 - Matched file (.mp4) :10861479_885379628151736_583781007_n - Copy.MP4
+03/03/2016 17:21:43 - Creating srt file for: C:\Users\Stuart\Videos\test_mp4\10861479_885379628151736_583781007_n - Copy.MP4
+03/03/2016 17:21:43 - Processed file: C:\Users\Stuart\Videos\test_mp4\10861479_885379628151736_583781007_n - Copy.MP4
+Created file: C:\Users\Stuart\Videos\test_mp4\10861479_885379628151736_583781007_n - Copy.srt (Duration: 119 seconds)
+Video Start Date/Time: 21/02/2016 14:35:33
+
+
+03/03/2016 17:21:43 - Checking file: 20151230172040 - Copy.m2ts
+03/03/2016 17:21:43 - Matched file (.m2ts) :20151230172040 - Copy.m2ts
+03/03/2016 17:21:43 - Creating srt file for: C:\Users\Stuart\Videos\test_mp4\20151230172040 - Copy.m2ts
+03/03/2016 17:21:43 - Processed file: C:\Users\Stuart\Videos\test_mp4\20151230172040 - Copy.m2ts
+Created file: C:\Users\Stuart\Videos\test_mp4\20151230172040 - Copy.srt (Duration: 2 seconds)
+Video Start Date/Time: 22/02/2016 21:13:00
+
+
+03/03/2016 17:21:43 - Checking file: 20151230172040.m2ts
+03/03/2016 17:21:43 - Matched file (.m2ts) :20151230172040.m2ts
+03/03/2016 17:21:44 - Creating srt file for: C:\Users\Stuart\Videos\test_mp4\20151230172040.m2ts
+03/03/2016 17:21:44 - Processed file: C:\Users\Stuart\Videos\test_mp4\20151230172040.m2ts
+Created file: C:\Users\Stuart\Videos\test_mp4\20151230172040.srt (Duration: 2 seconds)
+Video Start Date/Time: 22/02/2016 21:13:00
+
+
+03/03/2016 17:21:44 - Checking file: merged.srt
+03/03/2016 17:21:44 - Unable to match file: merged.srt
+03/03/2016 17:21:44 - Checking file: 10861479_885379628151736_583781007_n.srt
+03/03/2016 17:21:44 - Unable to match file: 10861479_885379628151736_583781007_n.srt
+03/03/2016 17:21:44 - Checking file: 10861479_885379628151736_583781007_n - Copy.srt
+03/03/2016 17:21:44 - Unable to match file: 10861479_885379628151736_583781007_n - Copy.srt
+03/03/2016 17:21:44 - Checking file: 20151230172040 - Copy.srt
+03/03/2016 17:21:44 - Unable to match file: 20151230172040 - Copy.srt
+03/03/2016 17:21:44 - Checking file: 20151230172040.srt
+03/03/2016 17:21:44 - Unable to match file: 20151230172040.srt
+03/03/2016 17:21:44 - Checking file: Thumbs.db
+03/03/2016 17:21:44 - Unable to match file: Thumbs.db

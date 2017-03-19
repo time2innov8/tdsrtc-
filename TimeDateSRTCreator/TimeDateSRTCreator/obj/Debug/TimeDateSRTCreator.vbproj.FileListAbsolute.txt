@@ -1,0 +1,33 @@
+C:\Users\Stuart\AppData\Local\Temporary Projects\TimeDateSRTCreator\bin\Debug\TimeDateSRTCreator.exe.config
+C:\Users\Stuart\AppData\Local\Temporary Projects\TimeDateSRTCreator\obj\Debug\Interop.WMPLib.dll
+C:\Users\Stuart\AppData\Local\Temporary Projects\TimeDateSRTCreator\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Stuart\AppData\Local\Temporary Projects\TimeDateSRTCreator\obj\Debug\TimeDateSRTCreator.vbproj.ResolveComReference.cache
+C:\Users\Stuart\AppData\Local\Temporary Projects\TimeDateSRTCreator\bin\Debug\TimeDateSRTCreator.exe
+C:\Users\Stuart\AppData\Local\Temporary Projects\TimeDateSRTCreator\bin\Debug\TimeDateSRTCreator.pdb
+C:\Users\Stuart\AppData\Local\Temporary Projects\TimeDateSRTCreator\bin\Debug\TimeDateSRTCreator.xml
+C:\Users\Stuart\AppData\Local\Temporary Projects\TimeDateSRTCreator\bin\Debug\MediaInfoNET.dll
+C:\Users\Stuart\AppData\Local\Temporary Projects\TimeDateSRTCreator\bin\Debug\Interop.WMPLib.dll
+C:\Users\Stuart\AppData\Local\Temporary Projects\TimeDateSRTCreator\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Stuart\AppData\Local\Temporary Projects\TimeDateSRTCreator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stuart\AppData\Local\Temporary Projects\TimeDateSRTCreator\obj\Debug\TimeDateSRTCreator.Form1.resources
+C:\Users\Stuart\AppData\Local\Temporary Projects\TimeDateSRTCreator\obj\Debug\TimeDateSRTCreator.Resources.resources
+C:\Users\Stuart\AppData\Local\Temporary Projects\TimeDateSRTCreator\obj\Debug\TimeDateSRTCreator.vbproj.GenerateResource.Cache
+C:\Users\Stuart\AppData\Local\Temporary Projects\TimeDateSRTCreator\obj\Debug\TimeDateSRTCreator.exe
+C:\Users\Stuart\AppData\Local\Temporary Projects\TimeDateSRTCreator\obj\Debug\TimeDateSRTCreator.xml
+C:\Users\Stuart\AppData\Local\Temporary Projects\TimeDateSRTCreator\obj\Debug\TimeDateSRTCreator.pdb
+C:\Users\Stuart\Documents\Visual Studio 2008\Projects\TimeDateSRTCreator\TimeDateSRTCreator\bin\Debug\TimeDateSRTCreator.exe.config
+C:\Users\Stuart\Documents\Visual Studio 2008\Projects\TimeDateSRTCreator\TimeDateSRTCreator\obj\Debug\Interop.WMPLib.dll
+C:\Users\Stuart\Documents\Visual Studio 2008\Projects\TimeDateSRTCreator\TimeDateSRTCreator\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Stuart\Documents\Visual Studio 2008\Projects\TimeDateSRTCreator\TimeDateSRTCreator\obj\Debug\TimeDateSRTCreator.vbproj.ResolveComReference.cache
+C:\Users\Stuart\Documents\Visual Studio 2008\Projects\TimeDateSRTCreator\TimeDateSRTCreator\obj\Debug\TimeDateSRTCreator.exe
+C:\Users\Stuart\Documents\Visual Studio 2008\Projects\TimeDateSRTCreator\TimeDateSRTCreator\obj\Debug\TimeDateSRTCreator.xml
+C:\Users\Stuart\Documents\Visual Studio 2008\Projects\TimeDateSRTCreator\TimeDateSRTCreator\obj\Debug\TimeDateSRTCreator.pdb
+C:\Users\Stuart\Documents\Visual Studio 2008\Projects\TimeDateSRTCreator\TimeDateSRTCreator\bin\Debug\TimeDateSRTCreator.exe
+C:\Users\Stuart\Documents\Visual Studio 2008\Projects\TimeDateSRTCreator\TimeDateSRTCreator\bin\Debug\TimeDateSRTCreator.pdb
+C:\Users\Stuart\Documents\Visual Studio 2008\Projects\TimeDateSRTCreator\TimeDateSRTCreator\bin\Debug\TimeDateSRTCreator.xml
+C:\Users\Stuart\Documents\Visual Studio 2008\Projects\TimeDateSRTCreator\TimeDateSRTCreator\bin\Debug\Interop.WMPLib.dll
+C:\Users\Stuart\Documents\Visual Studio 2008\Projects\TimeDateSRTCreator\TimeDateSRTCreator\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Stuart\Documents\Visual Studio 2008\Projects\TimeDateSRTCreator\TimeDateSRTCreator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stuart\Documents\Visual Studio 2008\Projects\TimeDateSRTCreator\TimeDateSRTCreator\obj\Debug\TimeDateSRTCreator.Form1.resources
+C:\Users\Stuart\Documents\Visual Studio 2008\Projects\TimeDateSRTCreator\TimeDateSRTCreator\obj\Debug\TimeDateSRTCreator.Resources.resources
+C:\Users\Stuart\Documents\Visual Studio 2008\Projects\TimeDateSRTCreator\TimeDateSRTCreator\obj\Debug\TimeDateSRTCreator.vbproj.GenerateResource.Cache
